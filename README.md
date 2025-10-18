@@ -1,16 +1,23 @@
 # 👋 Hello, I'm Aamir Ayoub
 ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-aamir-5971a82b5)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AamirAyoub123)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aamir.ayoub@ensam-casa.ma)
+[![Phone](https://img.shields.io/badge/Phone-+212640789881-brightgreen?style=for-the-badge)](tel:+212640789881)
 
 
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="100%" alt="Coding GIF"/>
-</td>
-<td width="50%" valign="top">
+
+
 ## 🧠 About Me
-  ---
+
+<div style="display: flex; align-items: center;">
+
+<div style="flex: 1; padding-right: 20px;">
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" alt="Coding GIF"/>
+</div>
+
+<div style="flex: 1;">
 I am a <b>Master’s student in Big Data and Internet of Things (IoT)</b> with an unyielding passion for <b>Artificial Intelligence, Computer Vision, and Large Language Models (LLMs)</b>.  
 I thrive on transforming <b>complex data into intelligent systems</b> that can perceive, reason, and act, bridging the gap between theory and real-world applications.  
 
@@ -24,10 +31,9 @@ My work is fueled by curiosity and the desire to <b>automate, optimize, and inno
 <li>💡 Focused on <b>Machine Learning, NLP, Computer Vision, LLMs, and AI Automation</b></li>
 <li>🤝 Open to <b>collaborations and cutting-edge AI projects</b></li>
 </ul>
-</td>
-</tr>
-</table>
+</div>
 
+</div>
 ---
 
 ---
