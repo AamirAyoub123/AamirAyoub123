@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Aamir Ayoub
 ---
 
-## 🧠 About Me
+
 
 <table>
 <tr>
@@ -9,6 +9,8 @@
 <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="100%" alt="Coding GIF"/>
 </td>
 <td width="50%" valign="top">
+## 🧠 About Me
+  ---
 I am a <b>Master’s student in Big Data and Internet of Things (IoT)</b> with an unyielding passion for <b>Artificial Intelligence, Computer Vision, and Large Language Models (LLMs)</b>.  
 I thrive on transforming <b>complex data into intelligent systems</b> that can perceive, reason, and act, bridging the gap between theory and real-world applications.  
 
