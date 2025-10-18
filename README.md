@@ -13,27 +13,28 @@
 
 <div style="display: flex; align-items: center;">
 
-<div style="flex: 1; padding-right: 20px;">
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" alt="Coding GIF"/>
+  <!-- Left: Coding GIF -->
+  <div style="flex: 1; padding-right: 20px;">
+    <img src="https://media.tenor.com/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" alt="Coding GIF"/>
+  </div>
+
+  <!-- Right: About Me Text -->
+  <div style="flex: 1;">
+    I am a **Master’s student in Big Data and Internet of Things (IoT)** with an unyielding passion for **Artificial Intelligence**, **Computer Vision**, and **Large Language Models (LLMs)**.  
+    I thrive on transforming **complex data into intelligent systems** that can perceive, reason, and act, bridging the gap between theory and real-world applications.
+
+    From designing **vision-based AI systems** that understand images and videos, to **developing LLM-powered applications** that interpret and generate human-like text, I aim to **push the boundaries of AI**.  
+    My work is fueled by curiosity and the desire to **automate, optimize, and innovate**, creating tools that are not only technically sound but also impactful for society.
+
+    - 🌍 Based in **Laayoune, Morocco**
+    - 🎓 Master’s in **Big Data & IoT (ENSAM, Casablanca)**
+    - 🗣 Languages: **English • French • Arabic**
+    - 💡 Focused on **Machine Learning, NLP, Computer Vision, LLMs, and AI Automation**
+    - 🤝 Open to **collaborations and cutting-edge AI projects**
+  </div>
+
 </div>
 
-<div style="flex: 1;">
-I am a <b>Master’s student in Big Data and Internet of Things (IoT)</b> with an unyielding passion for <b>Artificial Intelligence, Computer Vision, and Large Language Models (LLMs)</b>.  
-I thrive on transforming <b>complex data into intelligent systems</b> that can perceive, reason, and act, bridging the gap between theory and real-world applications.  
-
-From designing <b>vision-based AI systems</b> that understand images and videos, to <b>developing LLM-powered applications</b> that interpret and generate human-like text, I aim to <b>push the boundaries of AI</b>.  
-My work is fueled by curiosity and the desire to <b>automate, optimize, and innovate</b>, creating tools that are not only technically sound but also impactful for society.
-
-<ul>
-<li>🌍 Based in <b>Laayoune, Morocco</b></li>
-<li>🎓 Master’s in <b>Big Data & IoT (ENSAM, Casablanca)</b></li>
-<li>🗣 Languages: <b>English • French • Arabic</b></li>
-<li>💡 Focused on <b>Machine Learning, NLP, Computer Vision, LLMs, and AI Automation</b></li>
-<li>🤝 Open to <b>collaborations and cutting-edge AI projects</b></li>
-</ul>
-</div>
-
-</div>
 ---
 
 ---
