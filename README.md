@@ -1,19 +1,29 @@
 <h1 align="center">Hi, I'm AAMIR AYOUB 👋</h1>
 <h3 align="center">A Passionate AI & Data Science Engineer on a Mission to Solve Complex Challenges</h3>
-
 <br>
+<p align="right">
+  <a href="https://www.linkedin.com/in/aboutaib/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/ahmedaboutaib">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="mailto:ahmadaboutaib@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/ahmedaboutaib">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-<table width="100%" style="color : black ; border-collapse: collapse;" >
-  <tr style="color : black;">
-    <td width="45%" style="color : black; vertical-align: top; padding: 0;">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%" style="border-radius: 15px;"/>
-    </td>
-    <td width="55%" style="color : black; vertical-align: top; padding-left: 30px;">
-      <h3>🚀 About Me</h3>
-      <p>I'm a Master's student in <b>Big Data and Internet of Things (IoT)</b> at ENSAM, Casablanca, with a deep passion for Artificial Intelligence. My expertise lies in developing and optimizing machine learning models, with a special focus on <b>NLP, Computer Vision, and MLOps</b>. I thrive on building intelligent systems that automate processes and extract meaningful insights from data.</p>
-      <p>🚀 <b>Passionate about contrastive learning, generative AI, and multimodal models</b></p>
-      <p>🌍 <b>Based in Casablanca, Morocco</b></p>
-      <p>🗣️ <b>Languages:</b> Arabic • French • English</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="left" width="280"/>
+
+
+###🚀 About Me
+I'm a Master's student in <b>Big Data and Internet of Things (IoT)</b> at ENSAM, Casablanca, with a deep passion for Artificial Intelligence. My expertise lies in developing and optimizing machine learning models, with a special focus on <b>NLP, Computer Vision, and MLOps</b>. I thrive on building intelligent systems that automate processes and extract meaningful insights from data.</p>
+     🚀 <b>Passionate about contrastive learning, generative AI, and multimodal models</b>
+     🌍 <b>Based in Casablanca, Morocco</b>
+     🗣️ <b>Languages:</b> Arabic • French • English
       <ul style="margin-top: 10px;">
         <li>🔭 I'm currently working on <b>Advanced NLP models and Hybrid AI Detection Systems</b></li>
         <li>🌱 I'm deepening my knowledge in <b>MLOps, RAG, Fine Tuning, Computer Vision and Transformer Architectures</b></li>
@@ -21,10 +31,6 @@
         <li>💬 Ask me about <b>Machine Learning, Deep Learning, NLP, CNNs, LSTMs, and MLOps</b></li>
         <li>📫 How to reach me: <b>aamir.ayoub@ensam-casa.ma</b></li>
         </ul>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### 🛠️ Tech Stack & Tools
