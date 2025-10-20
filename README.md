@@ -3,12 +3,12 @@
 
 <br>
 
-<table width="100%" style="color : black; border: none; border-collapse: collapse;" >
-  <tr style="color : black;border: none;">
-    <td width="45%" style="color : black;border: none; vertical-align: top; padding: 0;">
+<table width="100%" style="color : black ; border-collapse: collapse;" >
+  <tr style="color : black;">
+    <td width="45%" style="color : black; vertical-align: top; padding: 0;">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%" style="border-radius: 15px;"/>
     </td>
-    <td width="55%" style="color : black;border: none; vertical-align: top; padding-left: 30px;">
+    <td width="55%" style="color : black; vertical-align: top; padding-left: 30px;">
       <h3>🚀 About Me</h3>
       <p>I'm a Master's student in <b>Big Data and Internet of Things (IoT)</b> at ENSAM, Casablanca, with a deep passion for Artificial Intelligence. My expertise lies in developing and optimizing machine learning models, with a special focus on <b>NLP, Computer Vision, and MLOps</b>. I thrive on building intelligent systems that automate processes and extract meaningful insights from data.</p>
       <p>🚀 <b>Passionate about contrastive learning, generative AI, and multimodal models</b></p>
