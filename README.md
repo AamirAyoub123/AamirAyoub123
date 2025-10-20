@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="left" width="300" height="500"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="left" height="500" width="300" />
 
 ### 🚀 About Me
 
@@ -33,6 +33,7 @@
                 <li>💬 Ask me about <b>Machine Learning, Deep Learning, NLP, CNNs, LSTMs, and MLOps</b></li>
                 <li>📫 How to reach me: <b>aamir.ayoub@ensam-casa.ma</b></li>
             </ul>
+            
 ---
 
 ### 🛠️ Tech Stack & Tools
