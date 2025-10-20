@@ -2,16 +2,13 @@
 <h3 align="center">A Passionate AI & Data Science Engineer on a Mission to Solve Complex Challenges</h3>
 <br>
 <p align="right">
-  <a href="https://www.linkedin.com/in/aboutaib/">
+  <a href="https://www.linkedin.com/in/ayoub-aamir-5971a82b5/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.kaggle.com/ahmedaboutaib">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="mailto:ahmadaboutaib@gmail.com">
+  <a href="mailto:amir.ayoub@ensam-casa.ma">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/ahmedaboutaib">
+  <a href="https://github.com/AamirAyoub123">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -19,7 +16,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="left" width="280"/>
 
 
-###🚀 About Me
+### 🚀 About Me
 I'm a Master's student in <b>Big Data and Internet of Things (IoT)</b> at ENSAM, Casablanca, with a deep passion for Artificial Intelligence. My expertise lies in developing and optimizing machine learning models, with a special focus on <b>NLP, Computer Vision, and MLOps</b>. I thrive on building intelligent systems that automate processes and extract meaningful insights from data.
      🚀 <b>Passionate about contrastive learning, generative AI, and multimodal models</b>
      🌍 <b>Based in Casablanca, Morocco</b>
