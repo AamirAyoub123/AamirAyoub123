@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="left" width="300" height="400"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="left" width="300" height="500"/>
 
 ### 🚀 About Me
 
