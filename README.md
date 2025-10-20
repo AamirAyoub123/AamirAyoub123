@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="left" width="280"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="left" width="300" width="400"/>
 
 ### 🚀 About Me
 
@@ -21,8 +21,6 @@
                 passion for Artificial Intelligence. My expertise lies in developing and optimizing machine learning
                 models, with a special focus on <b>NLP, Computer Vision, and MLOps</b>. I thrive on building intelligent
                 systems that automate processes and extract meaningful insights from data.</p>
-                <br></br>
-                <br></br>
             <p>🚀 <b>Passionate about contrastive learning, generative AI, and multimodal models</b></p>
             <p>🌍 <b>Based in Casablanca, Morocco</b></p>
             <p>🗣️ <b>Languages:</b> Arabic • French • English</p>
